@@ -1,4 +1,4 @@
 ---
-title: Just a Test
+myTitle: Just a Test
 ---
 
